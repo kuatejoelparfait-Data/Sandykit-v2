@@ -1,6 +1,12 @@
 # SANDYKIT
 
+[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-red.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 > Transforme tes idées en code production — spec-driven, IA-assisté, du cahier des charges au projet livré.
+
+> ⚠️ **Usage commercial interdit.** Ce projet est protégé par la licence CC BY-NC-ND 4.0.
+> Toute utilisation commerciale ou redistribution modifiée est interdite sans autorisation écrite de l'auteur.
+> Contact : hello@dhcompany.pro
 
 SANDYKIT est un outil CLI TypeScript avec **deux modes** :
 

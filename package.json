@@ -1,0 +1,35 @@
+{
+  "name": "sandykit",
+  "version": "2.0.0",
+  "description": "CLI interactif pour créer des projets logiciels complets via la conversation",
+  "type": "module",
+  "bin": {
+    "sandykit": "./dist/cli.cjs"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "tsx src/cli.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@clack/prompts": "^0.9.1",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "chokidar": "^5.0.0",
+    "commander": "^13.1.0",
+    "conf": "^13.1.0",
+    "keytar": "^7.9.0",
+    "mammoth": "^1.12.0",
+    "openai": "^4.98.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.1",
+    "esbuild": "^0.25.3",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.3"
+  }
+}

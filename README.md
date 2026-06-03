@@ -941,3 +941,12 @@ sandykit --help # Vérifier
 ---
 
 *SANDYKIT — Du cahier des charges au code, étape par étape.*
+
+---
+
+## Auteur
+
+**Joël Parfait Kuate**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joelparfaitkuate/)
+- 📧 [hello@dhcompany.pro](mailto:hello@dhcompany.pro)
